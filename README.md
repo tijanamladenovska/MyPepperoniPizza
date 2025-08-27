@@ -2,6 +2,8 @@
 
 This project uses Python’s `turtle` graphics library to draw a pizza illustration. It was created as part of a LinkedIn Learning course where I explored the fundamentals of Python programming.
 
+![Pizza Animation](assets/pizza.gif)
+
 The goal of the project wasn’t just to make something fun and visual, but also to practice core programming concepts like:
 
 * Working with Python’s built-in libraries
